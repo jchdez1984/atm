@@ -1,0 +1,6 @@
+nicebank/CashSlotSteps.class
+nicebank/AccountSteps.class
+nicebank/TellerSteps.class
+support/KnowsTheDomain.class
+nicebank/RunCukesTest.class
+transforms/MoneyConverter.class
